@@ -10,6 +10,7 @@ import Register from './Pages/Register/Register';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 function App() {
+  /* 
   const [data, setData] = useState(null);
 
   useEffect(() => {
@@ -17,7 +18,7 @@ function App() {
       .then((res) => res.json())
       .then((data) => setData(data.message));
   }, []);
-
+*/
 
   return (
     <>
