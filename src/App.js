@@ -1,9 +1,13 @@
-import React from "react";
-import { Routes, Route } from 'react-router-dom';
-import './App.css';
-import Home from './components/Home';
-import NotFound from "./components/NotFound";
+import React from 'react';
 import { useState, useEffect } from 'react';
+import Topbar from './Components/Topbar/Topbar';
+import Home from './Pages/Home/Home';
+import Settings from './Pages/Settings/Settings';
+import Single from './Pages/Single/Single';
+import Write from './Pages/Write/Write';
+import Login from './Pages/Login/Login';
+import Register from './Pages/Register/Register';
+
 
 function App() {
   const [data, setData] = useState(null);
@@ -17,10 +21,10 @@ function App() {
 
   return (
     <>
-      <Routes>
-        <Route path="/" element={<Home/>}></Route> 
-        <Route path="*" element={<NotFound/>}/>
-      </Routes>
+    <Topbar/>
+    <Home/>
+    <Register/>
+   
     </>
   );
 }
