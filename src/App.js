@@ -7,7 +7,7 @@ import Single from './Pages/Single/Single';
 import Write from './Pages/Write/Write';
 import Login from './Pages/Login/Login';
 import Register from './Pages/Register/Register';
-
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 function App() {
   const [data, setData] = useState(null);
