@@ -15,7 +15,7 @@ const Register = () => {
         <input className="registerInput" type="password" placeholder="Enter your password..." />
         <button className="registerButton">Register</button>
       </form>
-        <button className="registerLoginButton">Login</button>
+        {/* <button className="registerLoginButton">Login</button> */}
     </div>
     );
 }
