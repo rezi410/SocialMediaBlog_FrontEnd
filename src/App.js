@@ -9,8 +9,6 @@ import Register from './Pages/Register/Register';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
 function App() {
-  const currentUser = true;
-
   return (
     <>
     <div>
