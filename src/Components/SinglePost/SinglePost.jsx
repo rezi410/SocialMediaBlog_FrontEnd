@@ -6,7 +6,7 @@ const SinglePost = () => {
         <div className='singlePost'>
             <div className="singlePostWrapper">
             <img src="https://images.complex.com/complex/image/upload/c_fill,f_auto,g_center,w_1200/music-og" 
-                 alt="image" 
+                 alt="" 
                  className="singlePostImg" 
             />    
             <h1 className='singlePostTitle'>

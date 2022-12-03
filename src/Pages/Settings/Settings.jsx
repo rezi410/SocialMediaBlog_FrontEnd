@@ -15,7 +15,7 @@ const Settings = () => {
           <div className="settingsPP">
             <img
               src="https://www.worldatlas.com/r/w1200/upload/75/88/8b/chicago-city-chicago-river.jpg"
-              alt="image"
+              alt=""
             />
             <label htmlFor="fileInput">
               <i className="settingsPPIcon far fa-user-circle"></i>{" "}

@@ -7,7 +7,7 @@ const Post = () => {
             <img 
             className='postImg'
             src="https://images.complex.com/complex/image/upload/c_fill,f_auto,g_center,w_1200/music-og" 
-            alt="image" 
+            alt=""
             />
             <div className="postInfo">
                 <div className="postCats">
