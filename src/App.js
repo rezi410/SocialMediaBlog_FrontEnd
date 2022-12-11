@@ -12,7 +12,6 @@ function App() {
   return (
     <>
     <div>
-        <Link to="/">Home</Link> |<Link to="/register">Register</Link>
         <Topbar />
     </div>
       <Routes>
