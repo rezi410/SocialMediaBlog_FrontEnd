@@ -1,4 +1,4 @@
-<h1 align="center"> Restaurant Food Ordering System - FrontEnd </h1>
+<h1 align="center"> Social Media Blog - FrontEnd </h1>
 
 ## 📰 _Description_
 
