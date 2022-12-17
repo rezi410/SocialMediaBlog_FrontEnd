@@ -37,7 +37,7 @@ Be sure to create an environment variable file named .env in the root directory 
 
 ## _Usage_
 
-- To install the package providing all the node.js modules and dependencies.
+- To install the package providing all the node.js modules and dependencies
 
 ```
 npm install
