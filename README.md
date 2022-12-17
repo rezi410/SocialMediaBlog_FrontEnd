@@ -33,7 +33,7 @@ Following are the requirements to run this project:
 ## _Installation Process_
 
 Clone this repository onto your system.
-Be sure to create an environment variable file named .env in the root directory of the react app. The contents of this file should follow this structure:
+Be sure to create an environment variable file named .env in the root directory of the react app. The contents of this file should follow the following structure:
 
 ## _Usage_
 
