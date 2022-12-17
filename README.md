@@ -2,7 +2,7 @@
 
 ## 📰 _Description_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the social media blog front-end service. This service will use routing capabilities to build a web application using the [React](https://reactjs.org/) framework. The [Axios](https://github.com/axios/axios) library will be used to send asynchronous HTTP request to REST endpoints. This will allow us to use request methods like get, post, delete, and many more. Additionally, the [React-Bootstrap](https://react-bootstrap.github.io/) framework will be used to implement components containing templates, typography, and extra functionality for JSX and SCSS to create a responsive website with a professional look.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the social media blog front-end service. This service will use routing capabilities to build a web application using the [React](https://reactjs.org/) framework. The [Axios](https://github.com/axios/axios) library will be used to send asynchronous HTTP request to REST endpoints. This will allow us to use request methods like get, post, delete, and many more. Additionally, the [React-Bootstrap](https://react-bootstrap.github.io/) framework will be used to implement components containing templates, typography, and extra functionality for JSX and SASS to create a responsive website with a professional look.
 
 ## 🎃 _Language_
 
