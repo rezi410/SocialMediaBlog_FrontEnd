@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+<h1 align="center"> Restaurant Food Ordering System - FrontEnd </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📰 _Description_
 
-## Available Scripts
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the social media blog front-end service. This service will use routing capabilities to build a web application using the [React](https://reactjs.org/) framework. The [Axios](https://github.com/axios/axios) library will be used to send asynchronous HTTP request to REST endpoints. This will allow us to use request methods like get, post, delete, and many more. Additionally, the [React-Bootstrap](https://react-bootstrap.github.io/) framework will be used to implement components containing templates, typography, and extra functionality for JSX and SCSS to create a responsive website with a professional look.
 
-In the project directory, you can run:
+## 🎃 _Language_
 
-### `npm start`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🎞️ _Framework_
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### `npm test`
+## ☁️ _Cloud_
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Cyclic](https://img.shields.io/badge/Cyclic-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### `npm run build`
+## _Setup_
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Following are the requirements to run this project:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- ⚛️ React
+- 🛠️ Node Package Manager (NPM)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Getting Started
 
-### `npm run eject`
+## _Installation Process_
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Clone this repository onto your system.
+Be sure to create an environment variable file named .env in the root directory of the react app. The contents of this file should follow this structure:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## _Usage_
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- To install the package providing all the node.js modules and dependencies.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+npm install
+```
 
-## Learn More
+- Always remember to change directory to the app name inside the current folder
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+cd app-name
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- To run this project in your browser; open the terminal in your editor, change to app-name, and run the command
 
-### Code Splitting
+```
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+` This will locally open in the browser as http://localhost:3000.`
 
-### Analyzing the Bundle Size
+- Verify the app is running. You should see the following message:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+Compiled successfully!
 
-### Making a Progressive Web App
+You can now view the app in the browser.
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contributor Guidelines
 
-### Advanced Configuration
+We love your input! We want to make contributing to our code base as easy and transparent as possible, whether it's:
+- Reporting a bug
+- Discussing the current state of the code
+- Submitting a fix
+- Proposing new features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+However, to ensure consistency throughout the source code, keep these rules in mind as you are working:
+- Ensure to push your code in a seperate branch and wait for the pull request to be reviewed by the team members.
+- Create issues for any changes and enhancements that you wish to make. Discuss things transparently and get feedback.
+- Follow the rules contained in [Google's JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) with your code
+- Commit your changes using a descriptive commit message
